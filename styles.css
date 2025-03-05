@@ -1,14 +1,14 @@
 body {
   font-family: Arial, sans-serif;
-  color: #333
+  color: #333;
   background-color: #f9f9f9;
   margin: 0;
   padding: 0;
   line-height:1.6;
 }
 header{
-  background-color: #4CAF50
-  color: white
+  background-color: #4CAF50;
+  color: white;
   padding: 20px;
   text-align: center;
 }
@@ -18,7 +18,7 @@ header h1 {
 }
 
 nav a {
-  color: white
+  color: white;
   text-decoration:none;
   margin: 0 10px;
 }
@@ -64,8 +64,8 @@ text-decoration: underline;
 img {
 border: 5px solid #4CAF50;
 border-radius: 10px;
-}
-main a[href^="mailto:"] {
+}          ^
+main a[href="mailto:"] {
 color: #ff5722;
 font-weight: bold;
 }
