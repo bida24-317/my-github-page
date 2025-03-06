@@ -34,7 +34,7 @@ main{
 
 main img {
   max-width: 100%;
-  height: auto
+  height: auto;
   display: block;
   margin: 20px 0;
 }
@@ -64,8 +64,8 @@ text-decoration: underline;
 img {
 border: 5px solid #4CAF50;
 border-radius: 10px;
-}          ^
-main a[href="mailto:"] {
+}          
+main a[href="mailto:"]{
 color: #ff5722;
 font-weight: bold;
 }
